@@ -1,2 +1,4 @@
 # hello-world
-Basics of Github
+Basics of GitHub
+
+L'enfer, c'est les autres.
